@@ -143,6 +143,7 @@ I am committed to continuously developing my networking, infrastructure, and tro
 ## Connect With Me
 
 **LinkedIn:** www.linkedin.com/in/guerlensguerrier
+**Github:** https://github.com/Jean-Guerlens
 
 **Location:** New Jersey, United States
 
