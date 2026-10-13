@@ -1,6 +1,6 @@
 # Cisco Networking & Infrastructure Portfolio
 
-### CompTIA A+ | CompTIA Network+ | ASS. in Information Technology | Network & Cloud Engineering Student
+### CompTIA A+ | CompTIA Network+ | A.S. in Information Technology | Network & Cloud Engineering Student
 
 Welcome to my Cisco Networking Portfolio!
 
